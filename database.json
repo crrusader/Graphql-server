@@ -1,0 +1,24 @@
+{
+    "book": [{
+            "title": "一本书A",
+            "author": "lorem",
+            "others": {
+                "note": ""
+            }
+        },
+        {
+            "title": "一本书B",
+            "author": "faker",
+            "others": {
+                "note": "厉害的一本书"
+            }
+        }
+    ],
+    "person": {
+        "name": null,
+        "appearsIn": [
+            "汶水路",
+            "人明广场"
+        ]
+    }
+}
